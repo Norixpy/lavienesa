@@ -9,8 +9,8 @@ import java.util.List;
 
 public class ConsultaService {
 
-    private static final String USER = "sa";
-    private static final String PASS = "Primavera0.";
+    private static final String USER = "**";
+    private static final String PASS = "*********";
 
     private static final List<Sucursal> SUCURSALES = List.of(
             new Sucursal("10.10.1.2", 49697, "VM"),
@@ -181,3 +181,4 @@ public class ConsultaService {
         return resultados.toString();
     }
 }
+
