@@ -21,3 +21,4 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 y se creo un .bat y .jar para crear instalador con inno setup
+utilice un poco de spring boot y maven para ir conociendo
